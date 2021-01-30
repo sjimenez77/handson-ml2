@@ -1,0 +1,9 @@
+# Python local environment
+.venv
+
+# IDE
+.vscode
+
+# Generated folders
+datasets
+images
